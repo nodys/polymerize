@@ -1,0 +1,13 @@
+# Ignore unrelevant files
+.DS_Store
+/tmp
+npm-debug.log
+
+# Ignore compiled binary addons (http://nodejs.org/api/addons.html)
+**/build/Release
+
+# Ignore node modules
+/node_modules/*
+
+# Node module exceptions (for application only)
+#!/node_modules/express
