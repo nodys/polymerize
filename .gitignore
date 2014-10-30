@@ -11,3 +11,10 @@ npm-debug.log
 
 # Node module exceptions (for application only)
 #!/node_modules/express
+
+# Ignore bower stuff
+/bower_components
+bower.json
+
+# Ignore dev stuff
+/sandbox

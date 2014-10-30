@@ -11,17 +11,14 @@
 ## Installation
 
 ```shell
-npm install --save polymerize
+npm install --save polymerize cssy
 ```
 
 ## Usage
 
 ```javascript
-var browserify = require('browserify')
-var polymerize = require('polymerize');
-
-var b = browserify();
-b.transform(polymerize());
+var b = require('browserify')();
+b.transform('polymerize');
 b.bundle();
 ```
 
