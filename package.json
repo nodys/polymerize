@@ -25,6 +25,7 @@
     "jshint": "./node_modules/.bin/jshint --exclude node_modules"
   },
   "dependencies": {
+    "cheerio": "^0.17.0",
     "clean-css": "^2.2.16",
     "extend": "^2.0.0",
     "html-minifier": "^0.6.9",
@@ -38,9 +39,6 @@
     "expect.js": "*",
     "mocha": "*",
     "jshint": "*"
-  },
-  "peerDependencies": {
-    "cssy": "*"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
