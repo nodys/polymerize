@@ -1,7 +1,7 @@
 {
   "name": "polymerize",
   "description": "A browserify transform for polymer web-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
   "repository": {
     "type": "git",
