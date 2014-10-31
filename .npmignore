@@ -4,3 +4,5 @@
 npm-debug.log
 /bower_components
 /sandbox
+/coverage.html
+/lib-cov
