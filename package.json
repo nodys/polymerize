@@ -32,16 +32,18 @@
     "whacko": "^0.17.1"
   },
   "devDependencies": {
+    "concat-stream": "^1.4.6",
     "expect.js": "*",
+    "jshint": "*",
     "mocha": "*",
-    "jshint": "*"
+    "resumer": "0.0.0"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
   },
   "keywords": [
     "polymer",
-    "web component",
+    "web-component",
     "browserify",
     "transform"
   ]
