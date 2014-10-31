@@ -1,6 +1,14 @@
 Changelog
 =========
 
+v0.0.3 - Insolent Rabbit (2014-10-31) 
+----------------------------------------------------------------------
+
+  - refactor: Clean unused dependencies
+  - refactor: Remove cssy dependency, inlining css source
+  - refactor: Cleanup and rewrite but some issues remain
+
+
 v0.0.2 - Furry Spider (2014-10-30) 
 ----------------------------------------------------------------------
 
